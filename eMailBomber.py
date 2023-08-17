@@ -10,11 +10,11 @@ os.system("clear")
 
 class bcolors:
     GREEN = '\033[92m'
-    #Green = '\V2pOS2JGcFhORDA9'
+    #Green = 'V2pOS2JGcFhORDA9'
     YELLOW = '\033[93m'
-    #Yellow = \WlZkV2MySkhPVE09'
+    #Yellow = WlZkV2MySkhPVE09'
     RED = '\033[91m'
-    #Red = '\RG9ncnUgeW9sZGFzaW4h' 
+    #Red = 'RG9ncnUgeW9sZGFzaW4h' 
 
 
 def banner():
